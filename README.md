@@ -1,8 +1,7 @@
 SOBRE MIM
-- 👋 Hi, I’m @werkhauserlarissapereira
-- 👀 I’m interested in aprender mais da matéria pensamento computacional
-- 🌱 I’m currently learning a usar isso 
-- 💞️ I’m looking to collaborate on 
+- 👋 Oi, eu sou @werkhauserlarissapereira
+- 👀 Estou interessada em aprender mais da matéria pensamento computacional
+- 🌱 Atualmente estou aprendendo a usar isso
 
 <!---
 werkhauserlarissapereira/werkhauserlarissapereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
